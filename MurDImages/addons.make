@@ -1,0 +1,9 @@
+ofxGui
+ofxXmlSettings
+ofxEasing
+ofxJSON
+ofxPoco
+ofxRectangleUtils
+ofxSimpleHttp
+ofxTextureAtlas
+ofxWinTouchHook
